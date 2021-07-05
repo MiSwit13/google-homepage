@@ -1,0 +1,1 @@
+This is a simple project to reinforce basic HTML and CSS learned in online lessons. 
